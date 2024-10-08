@@ -1,7 +1,6 @@
 {
   "name": "nested-comments",
   "version": "0.1.0",
-  "homepage": "https://varungupta1729.github.io/GenFlowly_Assignment/",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",

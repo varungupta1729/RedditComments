@@ -48,4 +48,4 @@ This project replicates a Reddit-style comments thread UI using React. The app c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/varungupta1729/GenFlowly_Assignment.git
+   git clone 
